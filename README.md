@@ -7,3 +7,6 @@ An action game where the cowboy has to collect all the gold coins and find the w
 During the game, the cowboy will face different enemies and try to avoid or kill them.
 The cowboy will defeat the enemies by shooting them and look for gifts that will heal him and give him more ammunition.
 The game is played using the arrow keys on the keyboard to move, the spacebar to jump and ctrl to shoot.
+
+A short YouTube video of the game:
+https://www.youtube.com/watch?v=vhCgOxeK2E0&t=31s&ab_channel=RamElias
